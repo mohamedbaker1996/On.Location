@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">On Location</string>
+    <string name="close">Close</string>
+    <string name="ConfirmMain">Confirm</string>
+    <string name="stop">Stop</string>
+    <string name="traffic">traffic</string>
+    <string name="admob_app_id" translatable="false">
+        ca-app-pub-1640388995037866~1576015093 </string>
+    <string name="admob_interstitial_id" translatable="false">
+        ca-app-pub-1640388995037866/7211377359 </string>
+</resources>
